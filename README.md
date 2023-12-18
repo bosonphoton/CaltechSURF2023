@@ -7,3 +7,9 @@ Stiles, N. R., Li, M., Levitan, C. A., Kamitani, Y., & Shimojo, S. (2018). What 
 ### Audio Visual Rabbit: 
 Shams, L., Kamitani, Y., & Shimojo, S. (2002). Visual illusion induced by sound. Cognitive brain research, 14(1), 147-152.
 
+
+
+&nbsp;
+
+
+** Folders with BS are with the integration of mapping blindspots
